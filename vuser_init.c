@@ -1,5 +1,5 @@
 vuser_init()
 {
-		// MAKING CHANGES GIT001b
+		// MAKING CHANGES GIT002
 	return 0;
 }
